@@ -428,6 +428,11 @@ h6 {
   background: url("../img/hero9-bg.jpg") top right;
   background-size: cover;
 }
+@media only screen and (max-width: 768px) {
+  #hero {
+    background-position: center; /* Adjust background position to center on mobile screens */
+  }
+}
 .logoimage{
   color: #6f6f6f;
   font-size: 35px !important;
