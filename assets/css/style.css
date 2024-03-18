@@ -1,9 +1,3 @@
-/**
-* Template Name: Kelly - v4.10.0
-* Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -1378,12 +1372,12 @@ section {
 .app-icons {
   overflow: hidden;
   position: relative;
-  width: 100%; /* Ensure the div occupies full width */
+   /* Ensure the div occupies full width */
 }
 
 .app-icons {
   overflow: hidden;
-  white-space: nowrap;
+  
 }
 
 .app-iconsss {
